@@ -13,9 +13,6 @@ This project was built to demonstrate how legal documents can be made easier to 
 
 ![Chatbot Screenshot](assets/screenshot-chat.png)
 
-### Architecture
-
-![Architecture Diagram](assets/architecture.png)
 
 ---
 
