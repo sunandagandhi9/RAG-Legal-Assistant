@@ -11,7 +11,7 @@ This project was built to demonstrate how legal documents can be made easier to 
 
 ### Chatbot Interface
 
-![Chatbot Screenshot](assets/screenshot-chat.png)
+![Chatbot Screenshot](assets/Chatbot-2.png)
 
 
 ---
