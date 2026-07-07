@@ -16,7 +16,7 @@ This project was built to demonstrate how legal documents can be made easier to 
 
 ---
 
-## What This Project Does
+## What PRojects does
 
 The chatbot allows users to ask questions such as:
 
